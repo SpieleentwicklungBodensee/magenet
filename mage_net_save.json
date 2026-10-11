@@ -1,0 +1,18 @@
+{
+  "unlocked": [
+    "download",
+    "queue",
+    "chicken",
+    "adblock",
+    "404",
+    "tax"
+  ],
+  "counters": {
+    "chickens": 429,
+    "ads": 138,
+    "tax": 83,
+    "failed": 1295
+  },
+  "best_floor": 3,
+  "wins": 0
+}
