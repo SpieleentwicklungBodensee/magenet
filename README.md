@@ -1,4 +1,4 @@
-# 📶🔮 Mage.NET – Der Magier mit WLAN-Problemen
+# 📶🔮 Mage.NET – Der Magier mit WLAN-Problemen (Created with AI Support)
 
 Bodensee Game Jam 2026 · Thema **Magie** · Roguelite-Dungeon-Crawler + Comedy (Top-Down 2D, pygame)
 
